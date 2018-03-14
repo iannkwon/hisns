@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#d26a6a</color>
+    <color name="colorText">#ffffff</color>
+    <color name="colorMain">#fdb974</color>
+    <color name="colorLogo">#d26a6a</color>
+    <color name="colorbacktitle1">#e9e6e6</color>
+    <color name="colorbacktitle2">#686767</color>
+    <color name="boardread_idcon">#383636</color>
+</resources>
